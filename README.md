@@ -18,6 +18,6 @@ and this is my first html css project with frontend mentor
 
 Feel free to contact me about any problems you are facing. I will try to help as much as I can 😉
 
-[![Linkedin Badge]()
-[![Mail Badge]()]()
-[![Github Badge]()]()  
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=)](mailto:)
+[![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)]()  
