@@ -18,6 +18,6 @@ and this is my first html css project with frontend mentor
 
 Feel free to contact me about any problems you are facing. I will try to help as much as I can 😉
 
-[![Linkedin Badge]()]
-[![Mail Badge]()]
-[![Github Badge]()]() ] 
+[![Linkedin Badge]()
+[![Mail Badge]()]()
+[![Github Badge]()]()  
