@@ -5,7 +5,7 @@
 ##  cenkay's Github Profile
 
 Im new to software development and ım very exited to be envolved in the tech field.
-and this is my first html css project with frontend mentor
+
 
 
 
