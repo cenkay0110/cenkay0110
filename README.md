@@ -14,6 +14,8 @@ Im new to software development and ım very exited to be envolved in the tech fi
 - [QR Code Component Frontend Mentor Challenge ](https://github.com/cenkay0110/QR-Code-Component-Frontend-Mentor-Challenge) - **Recommended** 
 - [NFT Preview Card Frontend Mentor Challenge](https://github.com/cenkay0110/NFT-Preview-Card-Frontend-Mentor-Challenge) - **Recommended** ✨
 - [Profile card component main](https://github.com/cenkay0110/profile-card-component-main) - **Recommended** ✨
+- [Python TIC TAC TOE](https://github.com/cenkay0110/Python-TIC-TAC-TOE) - **Recommended** ✨
+
 
 ## 🤙🏻 You can reach out
 
