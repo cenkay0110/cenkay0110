@@ -11,8 +11,9 @@ Im new to software development and ım very exited to be envolved in the tech fi
 
 ## 🥳 Some of my projects
 
-- [QR-Code-Component-Frontend-Mentor-Challenge ](https://github.com/cenkay0110/QR-Code-Component-Frontend-Mentor-Challenge) - **Recommended** 
-- [NFT-Preview-Card-Frontend-Mentor-Challenge](https://github.com/cenkay0110/NFT-Preview-Card-Frontend-Mentor-Challenge) - **Recommended** ✨
+- [QR Code Component Frontend Mentor Challenge ](https://github.com/cenkay0110/QR-Code-Component-Frontend-Mentor-Challenge) - **Recommended** 
+- [NFT Preview Card Frontend Mentor Challenge](https://github.com/cenkay0110/NFT-Preview-Card-Frontend-Mentor-Challenge) - **Recommended** ✨
+- [Profile card component main](https://github.com/cenkay0110/profile-card-component-main) - **Recommended** ✨
 
 ## 🤙🏻 You can reach out
 
